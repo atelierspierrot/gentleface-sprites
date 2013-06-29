@@ -1,0 +1,18 @@
+{
+    "name": "atelierspierrot/gentleface-sprites",
+    "type": "library",
+    "description": "The UNOFFICIAL sprites - Original icons work from www.gentleface.com",
+    "keywords": [ "icons", "sprite", "gentleface" ],
+    "homepage": "http://github.com/atelierspierrot/gentleface-sprites",
+    "version": "0.0.1",
+    "license": "CC-BY-NC-3.0",
+    "authors": [{
+            "name": "Gentleface",
+            "email": "design@gentleface.com",
+            "homepage": "http://www.gentleface.com/"
+        },{
+            "name": "Les Ateliers Pierrot",
+            "email": "contact@ateliers-pierrot.fr",
+            "homepage": "http://www.ateliers-pierrot.fr/"
+    }]
+}
