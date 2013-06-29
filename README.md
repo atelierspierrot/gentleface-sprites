@@ -12,14 +12,11 @@ by [Gentleface](http://www.gentleface.com).
 This package proposes some CSS sprites constructed on the
 [Gentleface free web-icons set](http://www.gentleface.com/free_icon_set.html).
 The original set of icons is proposed under
-[Creative Commons named "Attribution - Non Commercial" license](http://creativecommons.org/licenses/by-nc/3.0/),
+[Creative Commons "Attribution - Non Commercial" license](http://creativecommons.org/licenses/by-nc/3.0/),
 free of use for **NON COMMERCIAL** usage as long as you mention the image credits to Gentleface.
 
 To learn more about "CSS sprites" conception, see the
 [Sprite (computer graphics) wikipedia's page](http://en.wikipedia.org/wiki/Sprite_%28computer_graphics%29#Sprites_by_CSS).
-
-The sprites were generated with the help of [website-performance.org](http://spritegen.website-performance.org/)
-and are CSS3 valid.
 
 As the original icons set, the sprites proposed icons in black and white, 16x16, 24x24, 32x32
 and 48x48 pixels.
@@ -104,3 +101,16 @@ For instance:
         <li class="active" title="Active state icon"><span class="gentleface-24 active-white shield"></span></li>
     </ul>
 
+
+## Credits
+
+As mentioned above, the original set of icons is made by [Gentleface](http://www.gentleface.com/)
+and proposed under [Creative Commons Attribution-Non Commercial](http://creativecommons.org/licenses/by-nc/3.0/)
+license. You are free to use it in personal (non-commercial) works but you must always add
+a link to www.gentleface.com in a prominent place (e.g. the page footer), including the CC-BY-NC
+license and the reference to www.gentleface.com on every page using the icons.
+
+The sprites were generated with the help of [website-performance.org](http://spritegen.website-performance.org/)
+and are CSS3 valid.
+
+The minified version of the CSS file of the package was processed with the [YUI Compressor](http://refresh-sf.com/yui/).
