@@ -55,6 +55,9 @@ To do so, you first need to include the CSS definitions:
 
 Then you can start writing some Gentleface icons spans using the framework explained below.
 
+A demonstration page is available in the global package (that requires a PHP server) in 
+`demo/` ; it shows in particular the list of available icons and their names.
+
 ### CSS Framework
 
 The package defines some **CSS sprites** classes to render some icons easily and with least of work.
@@ -87,18 +90,26 @@ Finally, some classes can be used to define common effects on icons:
     which means that the icon will be switched to the concerned `COLOR` (black or white)
     when the mouse is over the link (`hover` event) or when it's focused (`focus` event),
 -   an "active" effect on DOM elements containing icons using a `active-COLOR` class on the
-    icon, which means that when the container will have the class `active` (for a menu item
-    fo instance), the icon will be switched to the concerned `COLOR`.
+    icon, which means that when the container will have the class `active` (a menu item
+    for instance), the icon will be switched to the concerned `COLOR`.
 
-For instance:
+Examples:
 
-    <a href="#" title="Icon with hover effect"><span class="gentleface-48 hover-white rss"></span></a>
+    <a href="#" title="Icon with hover effect">
+        <span class="gentleface-48 hover-white rss"></span>
+    </a>
     
-    <a href="#" title="Inversed icon with hover effect"><span class="gentleface-32 white hover-black rss"></span></a>
+    <a href="#" title="Inversed icon with hover effect">
+        <span class="gentleface-32 white hover-black rss"></span>
+    </a>
     
     <ul>
-        <li title="Classic state icon"><span class="gentleface-24 active-white shield"></span></li>
-        <li class="active" title="Active state icon"><span class="gentleface-24 active-white shield"></span></li>
+        <li title="Classic state icon">
+            <span class="gentleface-24 active-white shield"></span>
+        </li>
+        <li class="active" title="Active state icon">
+            <span class="gentleface-24 active-white shield"></span>
+        </li>
     </ul>
 
 
