@@ -23,23 +23,13 @@ composer.lock
 # user defined files
 user/*
 
-# the external packages installed by Composer, Template Engine or others
-vendor/*
-bin/vendor/*
-etc/vendor/*
-data/vendor/*
-src/vendor/*
-var/vendor/*
-www/vendor/*
-
-# the documentation, that is NOT under version-control by default
-# this may be commented on the "dev" branch
-phpdoc/*
-
 # for development ...
 # this may be commented on the "wip" branch
 dev/*
 build/*
+
+# for image optimization & tests
+src.*/
 
 # any "tmp*" file or dir
 tmp*

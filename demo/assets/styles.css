@@ -45,6 +45,7 @@ a.handler.strong {font-weight: bold;}
 a.handler.down {background-image: url(arrow-down.png);}
 a.handler.left {background-image: url(arrow-left.png);}
 a.handler.noimg {background-image: none;}
+a.external {background: url("out.gif") no-repeat center right; padding-right: 14px;}
 
 .footnotes  {font-size: .92em; margin: 2em 10em 0 1em; border-top: 1px solid #ddd;}
 .footnotes .credits  {text-align: left;font-size: .96em;text-indent:0;}
@@ -93,6 +94,7 @@ ul.menu ul li a {font-weight:400;}
 #short_menu {margin-top:8px;}
 
 #footer     {clear: both; margin-top: 1em; border-top: 1px solid #ddd; padding: 20px 0; font-size: .9em; color: #999;}
+#footer .credits { line-height: 1.8em; }
 
 #content    {clear: left; text-align:left; width:100%; font-size: 1.1em; padding: 1em 0;}
 #content .info, #content .info p {text-indent: 0; font-size: .9em;}
