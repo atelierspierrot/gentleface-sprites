@@ -29,7 +29,7 @@ dev/*
 build/*
 
 # for image optimization & tests
-src.*/
+#src.*/
 
 # any "tmp*" file or dir
 tmp*
