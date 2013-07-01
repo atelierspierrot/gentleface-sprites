@@ -376,10 +376,10 @@ $icons_list = array(
     <link rel="stylesheet" href="assets/html5boilerplate/css/main.css" />
     <script src="assets/html5boilerplate/js/vendor/modernizr-2.6.2.min.js"></script>
 	<link rel="stylesheet" href="assets/styles.css" />
-	<link rel="stylesheet" href="../src/gentleface-sprites.css" />
 <!--
-	<link rel="stylesheet" href="../src/gentleface-sprites.min.css" />
+	<link rel="stylesheet" href="../src/gentleface-sprites.css" />
 //-->
+	<link rel="stylesheet" href="../src/gentleface-sprites.min.css" />
     <!--[if lt IE 5.5]> <link rel="stylesheet" href="assets/styles_ie_lt5.5.css" /> <![endif]-->
     <!--[if gte IE 5.5]> <link rel="stylesheet" href="assets/styles_ie_gte5.5.css" /> <![endif]-->
 <style type="text/css">
