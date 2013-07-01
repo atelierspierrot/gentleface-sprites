@@ -15,7 +15,7 @@ This package proposes some CSS sprites constructed on the
 [Gentleface custom toolbar icons](http://www.gentleface.com/free_icon_set.html).
 The original set of icons is proposed under
 [Creative Commons "Attribution - Non Commercial" license](http://creativecommons.org/licenses/by-nc/3.0/),
-free of use for **NON COMMERCIAL** usage as long as you mention the image credits to
+free of use for **NON COMMERCIAL** usage as long as you attach image credits to
 "[Gentleface UI / UX design](http://www.gentleface.com)". See the bottom of this page
 for more infos about protection licenses.
 

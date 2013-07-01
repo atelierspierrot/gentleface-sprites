@@ -611,7 +611,7 @@ EOT;
 		    This page is <a href="" title="Check now online" id="html_validation">HTML5</a> & <a href="" title="Check now online" id="css_validation">CSS3</a> valid.
 		</div>
 		<div class="credits float-right">
-            <a href="http://www.gentleface.com/free_icon_set.html">Gentleface custom toolbar icons</a> package by <a href="www.gentleface.com">Gentleface UI / UX design</a> under <a href="http://creativecommons.org/licenses/by-nc/3.0/">CC-BY-NC 3.0</a> license or <a href="http://www.gentleface.com/free_icon_set.html">Royalty Free</a> license.
+            <a href="http://www.gentleface.com/free_icon_set.html">Gentleface custom toolbar icons</a> package by <a href="http://www.gentleface.com">Gentleface UI / UX design</a> under <a href="http://creativecommons.org/licenses/by-nc/3.0/">CC-BY-NC 3.0</a> license or <a href="http://www.gentleface.com/free_icon_set.html">Royalty Free</a> license.
             <br />
             <a href="http://github.com/atelierspierrot/gentleface-sprites">atelierspierrot/gentleface-sprites</a> package by <a href="http://github.com/atelierspierrot">Les Ateliers Pierrot</a> under <a href="http://creativecommons.org/licenses/by-nc/3.0/">CC-BY-NC 3.0</a> original license.
 		</div>
