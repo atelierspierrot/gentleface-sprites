@@ -25,8 +25,8 @@ user/*
 
 # for development ...
 # this may be commented on the "wip" branch
-dev/*
-build/*
+#dev/*
+#build/*
 
 # for image optimization & tests
 #src.*/

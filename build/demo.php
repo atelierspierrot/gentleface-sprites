@@ -376,10 +376,10 @@ $icons_list = array(
     <link rel="stylesheet" href="assets/html5boilerplate/css/main.css" />
     <script src="assets/html5boilerplate/js/vendor/modernizr-2.6.2.min.js"></script>
 	<link rel="stylesheet" href="assets/styles.css" />
-	<link rel="stylesheet" href="../src/gentleface-sprites.css" />
 <!--
-	<link rel="stylesheet" href="../src/gentleface-sprites.min.css" />
+	<link rel="stylesheet" href="../src/gentleface-sprites.css" />
 //-->
+	<link rel="stylesheet" href="../src/gentleface-sprites.min.css" />
     <!--[if lt IE 5.5]> <link rel="stylesheet" href="assets/styles_ie_lt5.5.css" /> <![endif]-->
     <!--[if gte IE 5.5]> <link rel="stylesheet" href="assets/styles_ie_gte5.5.css" /> <![endif]-->
 <style type="text/css">
@@ -421,8 +421,12 @@ table.gentlefacetable td.black { background-color: #fff; }
                 <li><a href="#table">Full icons review</a></li>
             </ul></li>
             <li><a href="http://www.gentleface.com/">Gentleface online</a></li>
-            <li><a href="">Sprites sources</a></li>
         </ul>
+
+        <div class="info">
+            <p><a href="http://github.com/atelierspierrot/gentleface-sprites">See online on GitHub</a></p>
+            <p class="comment">The sources of this package are hosted on <a href="http://github.com">GitHub</a>. To follow sources updates, report a bug or read opened bug tickets and any other information, please see the GitHub website above.</p>
+        </div>
 
     	<p class="credits" id="user_agent"></p>
 	</nav>
@@ -464,6 +468,7 @@ table.gentlefacetable td.black { background-color: #fff; }
 <?php
 foreach ($icons_list as $class) {
     echo <<<EOT
+
         <li><a href="#$class" title="$class"><span class="gentleface reset $class"></span></a></li>
 EOT;
 }
@@ -585,6 +590,7 @@ Using the standalone class <code>gentleface</code> will be the same as <code>gen
 <?php
 foreach ($icons_list as $class) {
     echo <<<EOT
+
     <tr>
         <td class="text" id="$class">$class</td>
         <td class="white" title="gentleface[-16] [reset] white $class"><span class="gentleface-16 reset white $class"></span></td>
@@ -597,6 +603,7 @@ foreach ($icons_list as $class) {
         <td class="black" title="gentleface-48 [reset] [black] $class"><span class="gentleface-48 reset black $class"></span></td>
         <td><a href="#tabletop" title="Back to top">&uarr;</a></td>
     </tr>
+
 EOT;
 }
 ?>
