@@ -14,5 +14,6 @@
             "name": "Les Ateliers Pierrot",
             "email": "contact@ateliers-pierrot.fr",
             "homepage": "http://www.ateliers-pierrot.fr/"
-    }]
+    }],
+    "extra": { "assets-dir": "src" }
 }
