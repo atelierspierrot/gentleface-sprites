@@ -49,6 +49,9 @@ Packagist so you can write in your `composer.json`:
         "atelierspierrot/gentleface-sprites": "dev-master"
     }
 
+The package has a `library-assets` type to allow handling by the
+[Assets Manager](http://github.com/atelierspierrot/assets-manager) Composer's extension.
+
 ### HTML usage
 
 Once the package is included in your project, you can start to use the sprites framework.
