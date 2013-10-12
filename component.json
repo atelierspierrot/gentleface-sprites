@@ -1,5 +1,5 @@
 {
-  "name": "atelierspierrot/gentleface-sprites",
+  "name": "gentleface-sprites",
   "main": "src/gentleface-sprites.min.css",
   "ignore": [ "demo" ]
 }
