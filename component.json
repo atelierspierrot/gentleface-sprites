@@ -1,6 +1,5 @@
 {
-  "name": "gentleface-sprites",
-  "version": "1.0.0",
+  "name": "atelierspierrot/gentleface-sprites",
   "main": "src/gentleface-sprites.min.css",
   "ignore": [ "demo" ]
 }
