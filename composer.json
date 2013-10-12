@@ -25,7 +25,7 @@
         "assets-dir": "src",
         "assets-presets": {
             "gentleface-sprites": {
-                "css": "src/gentleface-sprites.min.css"
+                "css": "gentleface-sprites.min.css"
             }
         }
     }
