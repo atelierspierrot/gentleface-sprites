@@ -4,7 +4,6 @@
     "description": "The UNOFFICIAL sprites of the Free Wireframe Toolbar Icons for GUI designers by Gentleface (http://www.gentleface.com/free_icon_set.html)",
     "keywords": [ "icons", "sprite", "gentleface" ],
     "homepage": "http://github.com/atelierspierrot/gentleface-sprites",
-    "version": "1.0.1",
     "license": "CC-BY-NC-3.0",
     "authors": [{
         "name": "Gentleface",
@@ -21,5 +20,15 @@
         "atelierspierrot/library": "dev-master",
         "atelierspierrot/assets-manager": "dev-master"
     },
-    "extra": { "assets-dir": "src" }
+    "extra": {
+        "assets-dir": "src",
+        "assets-presets": {
+            "gentleface-sprites": {
+                "css": "gentleface-sprites.min.css"
+            }
+        },
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
 }
