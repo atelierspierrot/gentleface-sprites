@@ -20,9 +20,6 @@
             "gentleface-sprites": {
                 "css": "gentleface-sprites.min.css"
             }
-        },
-        "branch-alias": {
-            "dev-master": "1.0-dev"
         }
     }
 }
